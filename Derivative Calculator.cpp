@@ -5,7 +5,7 @@
 #include <vector>
 using namespace std;
 
-// Josiah Shehata -- Spring 2024: Final Project for CSC 1060 @ Front Range Community College
+// Josiah Shehata
 
 // Deliverables Used:
 // 1. if-else/switch: Lines 182, 205, 211, 218, 224, 228, 244, 274, 316, 398, 413, 417, 420, 425, 433, 437, 448
